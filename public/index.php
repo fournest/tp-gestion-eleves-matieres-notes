@@ -19,7 +19,7 @@ $notes = $gestionNotes->listerNotes();
 ?>
 
 
-<h2>Les etudiants</h2>
+<h2>LES ÉTUDIANTS</h2>
 
 <div class="container">
 
